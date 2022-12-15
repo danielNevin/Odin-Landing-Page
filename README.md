@@ -1,0 +1,3 @@
+This project was the end of the CSS seciton of the Odin Project Foundations course.
+
+This project allowed me to utilise my fresh new CSS and HTML skills to create a basic landing page for an imaginary website. The main focus of this project was to practice my element positioning skills (flexbox is a massive time and hair saver) with a secondary result  being that I was able to extend myself in regards to page styling through CSS properties and background images.
